@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.imgWrap{
+   width:100%;
+   text-align:center;
+}
+
+
+.imgContainer {
+    /* remove float:left here */
+    display:inline-block;
+}
